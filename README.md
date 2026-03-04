@@ -2,9 +2,9 @@
 
 ## 📌 Sobre o Projeto
 
-Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tópicos de Big Data, aplicado a um cenário real de mercado.
+Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tópicos de Big Data com aplicação de técnicas analíticas para extração de insights a partir de grandes volumes de dados.
 
-O estudo foi realizado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
+O estudo foi realizado aplicado a um cenário real de mercado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
 
 ---
 
